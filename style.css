@@ -127,5 +127,7 @@ body {
     pointer-events: none;
 }
 
-button, .check-button, .trash-button {
-    cursor: pointer;}
+button, .check-button, .trash-button
+ {
+    cursor: pointer;
+}
