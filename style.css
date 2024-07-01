@@ -128,4 +128,5 @@ body {
 }
 
 button, .check-button, .trash-button {
+    
     cursor: pointer; }
